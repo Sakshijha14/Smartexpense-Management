@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+
+# Env files — NEVER commit
+.env
+.env.local
+.env.*.local
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
